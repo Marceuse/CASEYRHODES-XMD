@@ -13,7 +13,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "Caseyrhodes~sjswlaRA#x0Xim1By32g6Yn7MFh2EP-GMa0XxTyXx5X2bdPtj67M"
     },  
     
     "ALIVE_IMG": {
@@ -37,7 +37,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     
     "MODE": {
@@ -51,7 +51,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -88,7 +88,7 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 sᴇᴇɴ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ🚀🔥*"
+      "value": "*🎉👀 sᴇᴇɴ ßy Nicolaus Daniel 2😈 🚀😁🔭*"
     }, 
 
         "AUTO_STATUS_REACT": {
@@ -100,13 +100,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄᴀsᴇʏʀʜᴏᴅᴇs 🫅"
+      "value": "Nicolaus Daniel 2😈😈"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "255652398614"
  },
 
     "BOT_NAME": {
@@ -150,7 +150,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
